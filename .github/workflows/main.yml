@@ -14,4 +14,4 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "react-assg" #Must be unique in Heroku
-          heroku_email: "u2017355@giki.edu.pk"
+          heroku_email: "u2017230@giki.edu.pk"
