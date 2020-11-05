@@ -7,7 +7,7 @@ function App() {
     <div className="App">
     <p className="App-header">
       <img src={logo} className="App-logo" alt="logo" />
-      <h1>Affan Assignment</h1>
+      <h1 className="name">Affan Assignment</h1>
       <h2>CI and CD through workflows</h2>
       <h3>Deployment on heroku through workflow</h3>
     </p>

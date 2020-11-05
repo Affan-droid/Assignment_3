@@ -2,10 +2,6 @@
   "name": "react-workflow-gh-actions",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": "14.8.0",
-    "npm": "6.14.7"
-  },
   "homepage": "https://Affan-droid.github.io/Assignment_3",
   "engines": {
     "node": "14.8.0",
