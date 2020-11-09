@@ -1,7 +1,7 @@
 # Setting up a CI/CD workflow on GitHub Actions for a React App (with GitHub Pages and Codecov)
 
 ![CI/CD](https://github.com/Affan-droid/Assignment_3/workflows/CI/CD/badge.svg)
-[![Codecov](https://img.shields.io/codecov/c/github/Affan-droid/Assignment_3)](https://codecov.io/gh/Affan-droid/Assignment_3)
+[![codecov](https://codecov.io/gh/Affan-droid/Assignment_3/branch/master/graph/badge.svg?token=FP86EX8RO0)](https://codecov.io/gh/Affan-droid/Assignment_3)
 
 
 In this tutorial, I'm going to show you how to create a simple workflow that I use on my personal projects with React.
