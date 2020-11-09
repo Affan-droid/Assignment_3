@@ -11,6 +11,9 @@ function App() {
       <h4>Assignment # 3</h4>
       <h2>CI and CD through workflows</h2>
       <h3>Deployment on heroku through workflow</h3>
+      <a href="https://codecov.io/gh/Affan-droid/Assignment_3">
+      <img src="https://codecov.io/gh/Affan-droid/Assignment_3/branch/master/graph/badge.svg?token=FP86EX8RO0"/>
+      </a>
     </p>
     </div>
   );
