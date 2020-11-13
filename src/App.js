@@ -11,6 +11,7 @@ function App() {
       <h4>Assignment # 3</h4>
       <h2>CI and CD through workflows and using Codecov.io</h2>
       <h3>Deployment on heroku through workflow</h3>
+      <h4>Codecov.io batch is in readme file</h4>
     </p>
     </div>
   );
